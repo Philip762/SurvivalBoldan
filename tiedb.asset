@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fba6f0251484a64682d465b1c19a2a6, type: 3}
+  m_Name: tiedb
+  m_EditorClassIdentifier: 
+  Ties:
+  - OClassStr: 3401_0D49
+    OClass: 3401
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3494_0DA6
+    OClass: 3494
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3690_0E6A
+    OClass: 3690
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3470_0D8E
+    OClass: 3470
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3457_0D81
+    OClass: 3457
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3648_0E40
+    OClass: 3648
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3568_0DF0
+    OClass: 3568
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3497_0DA9
+    OClass: 3497
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3878_0F26
+    OClass: 3878
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3621_0E25
+    OClass: 3621
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3859_0F13
+    OClass: 3859
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3650_0E42
+    OClass: 3650
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3404_0D4C
+    OClass: 3404
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3317_0CF5
+    OClass: 3317
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3649_0E41
+    OClass: 3649
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3315_0CF3
+    OClass: 3315
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3316_0CF4
+    OClass: 3316
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3835_0EFB
+    OClass: 3835
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3456_0D80
+    OClass: 3456
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3411_0D53
+    OClass: 3411
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3469_0D8D
+    OClass: 3469
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3534_0DCE
+    OClass: 3534
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3876_0F24
+    OClass: 3876
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3628_0E2C
+    OClass: 3628
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3605_0E15
+    OClass: 3605
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3841_0F01
+    OClass: 3841
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3676_0E5C
+    OClass: 3676
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3440_0D70
+    OClass: 3440
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3657_0E49
+    OClass: 3657
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3541_0DD5
+    OClass: 3541
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 8566_2176
+    OClass: 8566
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3493_0DA5
+    OClass: 3493
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3320_0CF8
+    OClass: 3320
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3572_0DF4
+    OClass: 3572
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3319_0CF7
+    OClass: 3319
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3495_0DA7
+    OClass: 3495
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3426_0D62
+    OClass: 3426
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3581_0DFD
+    OClass: 3581
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3402_0D4A
+    OClass: 3402
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3403_0D4B
+    OClass: 3403
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3498_0DAA
+    OClass: 3498
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3496_0DA8
+    OClass: 3496
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3634_0E32
+    OClass: 3634
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3810_0EE2
+    OClass: 3810
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3811_0EE3
+    OClass: 3811
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3539_0DD3
+    OClass: 3539
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3393_0D41
+    OClass: 3393
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3322_0CFA
+    OClass: 3322
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3664_0E50
+    OClass: 3664
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3659_0E4B
+    OClass: 3659
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3660_0E4C
+    OClass: 3660
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3889_0F31
+    OClass: 3889
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3637_0E35
+    OClass: 3637
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3491_0DA3
+    OClass: 3491
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3398_0D46
+    OClass: 3398
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3528_0DC8
+    OClass: 3528
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3533_0DCD
+    OClass: 3533
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3537_0DD1
+    OClass: 3537
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3619_0E23
+    OClass: 3619
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3620_0E24
+    OClass: 3620
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3624_0E28
+    OClass: 3624
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3636_0E34
+    OClass: 3636
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3644_0E3C
+    OClass: 3644
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3658_0E4A
+    OClass: 3658
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3836_0EFC
+    OClass: 3836
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 5011_1393
+    OClass: 5011
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3538_0DD2
+    OClass: 3538
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3425_0D61
+    OClass: 3425
+    LODDistanceMultiplier: 1.6
+  - OClassStr: 3685_0E65
+    OClass: 3685
+    LODDistanceMultiplier: 1.6
