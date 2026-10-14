@@ -301530,6 +301530,7 @@ MonoBehaviour:
   Lights: 1
   MinimapTextureOverride: {fileID: 0}
   MinimapResolution: 512
+  CustomMusicTracks: []
   PostExposure: 0
   PostColorFilter: {r: 1, g: 1, b: 1, a: 1}
   FogOverride: 0
@@ -450040,7 +450041,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e17a2ccf71e902840ae1beca4d34117e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MapVersion: 11
+  MapVersion: 12
   MapName: Boldan
   MapAuthor: Philip (nightowl)
   MapDescription: '\red\[HARD]\normal\
